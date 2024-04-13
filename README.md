@@ -40,7 +40,7 @@ To get this application running on your local machine, follow these steps:
 4. **Run the application:**
 
    ```bash
-   streamlit run main.py
+   streamlit run app.py
 5. **Open your web browser and go to:**
    ```bash
    http://localhost:8501
