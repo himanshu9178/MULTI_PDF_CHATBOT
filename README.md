@@ -30,4 +30,24 @@ To get this application running on your local machine, follow these steps:
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/himanshu9178/MULTI_PDF_CHATBOT.git
+2. **Step 2: Navigate to the project directory:**
+   ```bash
+   cd MULTI_PDF_CHATBOT
 
+3. **Install dependencies:**
+   ```bash
+   pip install -r requirements.txt
+4. **Run the application:**
+
+   ```bash
+   streamlit run main.py
+5. **Open your web browser and go to:**
+   ```bash
+   http://localhost:8501
+## Live Deployment
+
+The Multi PDF Chatbot is deployed on Streamlit, and you can interact with it live at:
+
+[Streamlit Deployment of Multi PDF Chatbot](https://multipdfchatbot-c6rgdafqdf2pnmobf388um.streamlit.app/)
+
+Feel free to explore the application and see how it can assist in your PDF document handling tasks!
