@@ -15,6 +15,7 @@ The Multi PDF Chatbot uses a combination of natural language processing and PDF 
 - **PDF Upload:** Users can upload multiple PDF files to the chatbot.
 - **Natural Language Queries:** The chatbot understands and responds to queries in natural language.
 - **Information Extraction:** Extracts and summarizes the requested information from the uploaded PDFs.
+- **Text Chunking:** The extracted text is split into smaller chunks to improve the efficiency of retrieval and provide more precise answers.
 
 ## Technologies Used
 
